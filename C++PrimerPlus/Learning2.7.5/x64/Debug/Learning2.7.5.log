@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\WorkSpace\C_plus_plus_Study\C++PrimerPlus\Learning2.7.5\main.cpp(7,67): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\WorkSpace\C_plus_plus_Study\C++PrimerPlus\Learning2.7.5\main.cpp(11,17): warning C4244: “return”: 从“double”转换到“int”，可能丢失数据
+  Learning2.7.5.vcxproj -> D:\WorkSpace\C_plus_plus_Study\x64\Debug\Learning2.7.5.exe
