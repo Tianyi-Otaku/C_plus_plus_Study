@@ -11,6 +11,6 @@ int main(void) {
 	std::cout << "ÇëÊäÈë·ÖÖÓ£º" << std::endl;
 	int y;
 	std::cin >> y;
-	Timer(x, y);
+	Timer(x,y);
 	return 0;
 }
