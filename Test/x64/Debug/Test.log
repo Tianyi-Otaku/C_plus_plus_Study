@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\WorkSpace\C_plus_plus_Study\Test\main.cpp(28,3): warning C4834: 放弃具有 [[nodiscard]] 属性的函数的返回值
+D:\WorkSpace\C_plus_plus_Study\Test\main.cpp(39): warning C4715: “isAangram”: 不是所有的控件路径都返回值
+  Test.vcxproj -> D:\WorkSpace\C_plus_plus_Study\x64\Debug\Test.exe
